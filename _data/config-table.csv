@@ -1,5 +1,5 @@
 field,display_name
 title,Título
-date,Fecha
+msdate,Fecha
 description,Descripción
-subject,Temas
+creator,Creador
