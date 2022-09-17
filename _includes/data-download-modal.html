@@ -32,8 +32,8 @@
                 {% if site.data.theme.metadata-facets-fields %}
                 <div class="card my-3">
                     <div class="card-body">
-                        <h5 class="card-title">Metadata Facets</h5>
-                        <p class="card-text">List of unique values and their count for specific metadata fields, useful for understanding content of the fields.</p>
+                        <h5 class="card-title">Facetas de metadatos</h5>
+                        <p class="card-text">Lista de valores únicos y su recuento para campos de metadatos específicos, útil para comprender el contenido de los campos.</p>
                         <a href="{{ '/assets/data/facets.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Facets JSON</a>
                     </div>
                 </div>
@@ -41,8 +41,8 @@
                 {% if stubs contains "subject" %}
                 <div class="card my-3">
                     <div class="card-body">
-                        <h5 class="card-title">Subject Metadata</h5>
-                        <p class="card-text">Unique values and counts of subject metadata, useful for further analyzing the content of this collection.</p>
+                        <h5 class="card-title">Metadatos por materia</h5>
+                        <p class="card-text">Valores únicos y recuentos de metadatos por materia, útiles para analizar más a fondo el contenido de esta colección.</p>
                         <a href="{{ '/assets/data/subjects.csv' | relative_url }}" class="btn btn-outline-dark" target="_blank">Subjects CSV</a>
                         <a href="{{ '/assets/data/subjects.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Subjects JSON</a>
                     </div>
@@ -78,8 +78,8 @@
                 {%- endif -%}
                 <div class="card my-3">
                     <div class="card-body">
-                        <h5 class="card-title">Website Source Code</h5>
-                        <p class="card-text">GitHub repository containing source code for this project built with <a href="https://github.com/CollectionBuilder/collectionbuilder-gh" target="_blank" rel="noopener">CollectionBuilder-GH</a>.</p>
+                        <h5 class="card-title">Código fuente de la Web</h5>
+                        <p class="card-text">El repositorio de GitHub contiene el código de este proyecto. Construido con <a href="https://github.com/CollectionBuilder/collectionbuilder-gh" target="_blank" rel="noopener">CollectionBuilder-GH</a>.</p>
                         <a href="{{ site.source-code | default: 'https://github.com/CollectionBuilder/collectionbuilder-gh' }}" class="btn btn-outline-dark" target="_blank">Source Code</a>
                     </div>
                 </div>
