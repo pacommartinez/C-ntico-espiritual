@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="chttps://upload.wikimedia.org/wikipedia/commons/0/0d/El_Monte_Carmelo.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/manuscrito.png" %}
 
 
 
