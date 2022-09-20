@@ -22,37 +22,38 @@ Fechado en torno a 1584, y escrito en complejas circunstacias, la historia textu
 
 #### Referencias de los manuscritos empleados en la colección
 
-Cracovia, Jagiellonian Digital Library, Berol. Ms., Hisp. Qu. 23. https://jbc.bj.uj.edu.pl/dli-bra/publication/45/edition/36#info
+[Cracovia, Jagiellonian Digital Library, Berol. Ms., Hisp. Qu. 23.](https://jbc.bj.uj.edu.pl/dlibra/publication/45/edition/36#info)
 
-Madrid, Biblioteca Nacional de España, Ms., I 31.http://www.memoriadema-drid.es/buscador.php?accion=VerFicha&id=142136
+[Madrid, Biblioteca Nacional de España, Ms., I 31.](http://www.memoriademadrid.es/buscador.php?accion=VerFicha&id=142136)
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/11086. http://bdh.bne.es/bne-search/detalle/bdh0000190885
+[Madrid, Biblioteca Nacional de España, Ms., MSS/11086.](http://bdh.bne.es/bnesearch/detalle/bdh0000190885)
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/13505. http://bdh.bne.es/bne-search/detalle/bdh0000235404
+[Madrid, Biblioteca Nacional de España, Ms., MSS/13505.](http://bdh.bne.es/bnesearch/detalle/bdh0000235404) 
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/13568. http://bdh.bne.es/bne-search/detalle/bdh0000235685 
+[Madrid, Biblioteca Nacional de España, Ms., MSS/13568.](http://bdh.bne.es/bnesearch/detalle/bdh0000235685) 
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/13926. http://bdh.bne.es/bne-search/detalle/bdh0000242478 
+[Madrid, Biblioteca Nacional de España, Ms., MSS/13926.](http://bdh.bne.es/bnesearch/detalle/bdh0000242478) 
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/17558. http://bdh.bne.es/bne-search/detalle/bdh0000259250
+[Madrid, Biblioteca Nacional de España, Ms., MSS/17558.](http://bdh.bne.es/bnesearch/detalle/bdh0000259250) 
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/18160. http://bdh.bne.es/bne-search/detalle/bdh0000135500 
+[Madrid, Biblioteca Nacional de España, Ms., MSS/18160.](http://bdh.bne.es/bnesearch/detalle/bdh0000135500) 
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/2037. http://bdh.bne.es/bne-search/detalle/bdh0000088133
+[Madrid, Biblioteca Nacional de España, Ms., Mss/2037.](http://bdh.bne.es/bnesearch/detalle/bdh0000088133)
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/6624. http://bdh.bne.es/bne-search/detalle/bdh0000134513 
+[Madrid, Biblioteca Nacional de España, Ms., Mss/6624.](http://bdh.bne.es/bnesearch/detalle/bdh0000134513) 
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/6895. http://bdh.bne.es/bne-search/detalle/bdh0000010161 
+[Madrid, Biblioteca Nacional de España, Ms., Mss/6895.](http://bdh.bne.es/bnesearch/detalle/bdh0000010161) 
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/7072. http://bdh.bne.es/bne-search/detalle/bdh0000098840
+[Madrid, Biblioteca Nacional de España, Ms., Mss/7072.](http://bdh.bne.es/bnesearch/detalle/bdh0000098840)  
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/7741. http://bdh.bne.es/bne-search/detalle/bdh0000071011 
+[Madrid, Biblioteca Nacional de España, Ms., Mss/7741.](http://bdh.bne.es/bnesearch/detalle/bdh0000071011) 
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/8492. http://bdh.bne.es/bne-search/detalle/bdh0000137552
+[Madrid, Biblioteca Nacional de España, Ms., Mss/8492.](http://bdh.bne.es/bnesearch/detalle/bdh0000137552) 
 
-Madrid, Biblioteca Nacional de España, Ms., Mss/8654. http://bdh.bne.es/bne-search/detalle/bdh0000042442
+[Madrid, Biblioteca Nacional de España, Ms., Mss/8654.](http://bdh.bne.es/bnesearch/detalle/bdh0000042442)
 
-Madrid, Biblioteca Nacional de España, Ms., MSS/8795. http://bdh.bne.es/bne-search/detalle/bdh0000137578 
+[Madrid, Biblioteca Nacional de España, Ms., MSS/8795.](http://bdh.bne.es/bnesearch/detalle/bdh0000137578) 
+
 
 
 
