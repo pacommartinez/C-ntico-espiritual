@@ -12,7 +12,7 @@ credits: true
 
 
 
-## Sobre la colección *Cántico espiritual* 
+## Sobre la colección *Cántico Espiritual* 
 
 La colección *Cántico Espiritual* busca una revalorización de los manuscritos digitalizados de la composición homónima de San Juan de la Cruz. Aquí se alojan y se describen 16 piezas extraídas de diferentes repositorios nacionales e internacionales. Ademas de dar accceso a los mismos, en ellos se detallan las características de cada uno de los objetos digitales, tanto a nivel poemático como en su dimensión física. *Cántico Espiritual* no tiene solamente la función de compendiar y exhibir, sino que se nutre de la idea propia de las Humanidades Digitales de que nuevas formas de representación de información generan nuevas preguntas, y que nuevos modelos metodológicos construyen vías de descongestión para cuestiones enquistadas del mundo humanístico. 
 
